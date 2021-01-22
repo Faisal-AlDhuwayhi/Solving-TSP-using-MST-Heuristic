@@ -27,4 +27,4 @@ At the end, we can figure out that the approximation algorithm is a good choice 
 --- 
 
 
-- Finally, There are more details and more information about the experiment that can be found in the [**Report**](Report.pdf). Also, the graphs that have been used in the experiments appear inside the [**Experimental graph folder**](The-Experimental-Graph/).
+- Finally, there are more details and more information about the experiment that can be found in the [**Report**](Report.pdf). Also, the graphs that have been used in the experiment appear inside the [**Experimental graph folder**](The-Experimental-Graph/).
