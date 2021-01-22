@@ -20,10 +20,11 @@ Noticing that the approximation algorithm (Christofide’s algorithm) does not h
 
 However, using the brute-force approach (optimal solution) is not the best choice though, due to the massive growth of the solution time versus the input size.
 
-Finally, we can figure out that the approximation algorithm is a good choice but it’s also a double-edged sword algorithm, since it gives a faster running time but not always giving the correct solution.
+At the end, we can figure out that the approximation algorithm is a good choice but it’s also a double-edged sword algorithm, since it gives a faster running time but not always giving the correct solution.
 
 
 
+--- 
 
 
-- Finally, there are more details and more information about the experiment that can be found in the [**Report**](Report.pdf). Also, the graphs that have been used in the experiments appear inside the [**Experimental graph folder**](The-Experimental-Graph/).
+- Finally, There are more details and more information about the experiment that can be found in the [**Report**](Report.pdf). Also, the graphs that have been used in the experiments appear inside the [**Experimental graph folder**](The-Experimental-Graph/).
